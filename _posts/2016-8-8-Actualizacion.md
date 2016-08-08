@@ -18,7 +18,7 @@ O bien, una imagen dentro de otra imagen xD
 
 
 * Mardown no requiere un gran Syntax de trabajo
-- Es ligero y cualquier navegador *_cof cof cof_* *_IE_* lo puede leer.
+- Es ligero y cualquier navegador **_cof cof cof_** **_IE_** lo puede leer.
 + Es fàcil para crear un blog statico como este.
 
 ----
