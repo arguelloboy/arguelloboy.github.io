@@ -6,8 +6,7 @@
 name: Carlos A.
 
 # Short bio or description (displayed in the header)
-description: Estudiante de IRT, UCA Nicaragua, geek y FOSS fan
-
+description: IRT UCA
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
 
@@ -19,9 +18,9 @@ avatar:
 footer-links:
   dribbble:
   email: arguelloboy@icloud.com
-  facebook: Carlos Arguello
+  facebook: https://www.facebook.com/arguelloboy
   flickr:
-  github: arguelloboy
+  github: https://github.com/arguelloboy
   instagram:
   linkedin:
   pinterest:
