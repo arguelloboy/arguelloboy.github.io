@@ -1,5 +1,5 @@
 layout: post
-title: Carlos Arguello- jekyll blog??
+title: Carlos Arguello-jekyll blog??
 
 # Jekyll y Markdown? Jekyll??
 
