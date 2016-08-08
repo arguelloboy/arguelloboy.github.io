@@ -14,7 +14,7 @@ Una muestra del poder de Markdown en [Imgur](http://i.imgur.com/bFqcdwk.png)
 
 O bien, una imagen dentro de otra imagen xD
 
-![Markdown]({{http://i.imgur.com/bFqcdwk.png }} "Markdown")
+![Markdown]({{http://i.imgur.com/bFqcdwk.png }}/images/cute girl.png "Markdown")
 
 * Mardown no requiere un gran Syntax de trabajo
 - Es ligero y cualquier navegador *_cof cof cof_* *_IE_* lo puede leer.
